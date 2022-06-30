@@ -1,0 +1,21 @@
+.maincon {
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+    
+    .formularios{
+       width: 50%;
+        background-color: rgba(0, 0, 0, 0.363);
+        justify-items: center;
+
+    }
+       .form-control{
+        color: red;
+        background-color: black;
+       }   
+    }
+ 
+  
